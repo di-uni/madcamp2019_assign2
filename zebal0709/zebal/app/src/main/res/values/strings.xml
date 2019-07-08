@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">zebal</string>
+    <string name="facebook_app_id">760134721085142</string> <string name="fb_login_protocol_scheme">fb760134721085142</string>
+
+</resources>
